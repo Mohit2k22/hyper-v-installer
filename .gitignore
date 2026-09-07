@@ -1,0 +1,13 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+hyper-v.txt
+
+# Editors / IDEs
+.vscode/
+.idea/
